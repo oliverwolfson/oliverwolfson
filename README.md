@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript. 
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on media projects.
-- 📫 How to reach me.
+- 📫 How to reach me oliver@channel60.tv
 
 <!---
 oliverwolfson/oliverwolfson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
